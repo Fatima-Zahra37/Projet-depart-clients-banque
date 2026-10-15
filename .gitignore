@@ -1,0 +1,6 @@
+# Environnement Python (recréable avec requirements.txt)
+.venv/
+
+# Fichiers temporaires Python et Jupyter
+__pycache__/
+.ipynb_checkpoints/
